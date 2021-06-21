@@ -1,4 +1,3 @@
-# About
 
 I am a researcher/ ML engineer in the the field of NLP and speech processing.
 I strongly believe that incremental improvments regularly can have profound impacts and continually try to optimize the training of my mind and body.
