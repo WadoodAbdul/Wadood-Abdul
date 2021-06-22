@@ -15,14 +15,14 @@ R&D Engineer - **Senseforth.ai** <span style="float: right; ">Jun'20 - Present</
 Developing Text-To-Speech systems for different languages and accents using tools like ESPnet, TensorflowTTS. Predominant architectures dealt with are Tacotron and Fastspeech2.
 
 - SQuAD2.0 <span style="float: right; ">Feb’ 21 - Apr’ 21</span>
- Developed a question-answering module on the SQuAD 2.0 dataset using architectures like ELECTRA, ALBERT, DEBERTA. Achieved the 5th rank in the leaderboard.
+ Developed a question-answering module on the SQuAD 2.0 dataset using architectures like ELECTRA, ALBERT, DeBERTa. Achieved the 5th rank in the leaderboard.
  
 - NLP Modules <span style="float: right; ">June’20 - Feb’21</span>
  Developed and deployed modules like
    - Question Generatorbased on T5 architecture
    - Semantic Similaritybased on sentence-transformers
    - Variation Generato rbased on T5 architecture
-   - Sentence classifiersbased on BERT, ROBERTA, DEBERTA
+   - Sentence classifiersbased on BERT, RoBERTA, DeBERTa
 
  
 Research Student - **IISc** <span style="float: right; ">Aug' 2019 - Mar' 2020</span>  
