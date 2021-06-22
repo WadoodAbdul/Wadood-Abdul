@@ -19,10 +19,10 @@ Developing Text-To-Speech systems for different languages and accents using tool
  
 - NLP Modules: <span style="float: right; ">June’20 - Feb’21</span>
  Developed and deployed modules like
-   - Question Generatorbased on T5 architecture
-   - Semantic Similaritybased on sentence-transformers
-   - Variation Generato rbased on T5 architecture
-   - Sentence classifiersbased on BERT, RoBERTA, DeBERTa
+   - Question Generator based on the T5 architecture
+   - Semantic Similarity based on sentence-transformers
+   - Variation Generator based on the T5 architecture
+   - Sentence classifiers based on BERT, RoBERTA, DeBERTa
 
  
 Research Student - **IISc** <span style="float: right; ">Aug' 2019 - Mar' 2020</span>  
