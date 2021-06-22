@@ -1,6 +1,6 @@
 
 I am a researcher/ ML engineer in the the field of NLP and speech processing.
-I strongly believe that incremental improvments regularly can have profound impacts and continually try to optimize the training of my mind and body.
+I strongly believe that regular incremental improvments can have profound impact and continually optimize the training of my mind and body.
 
 Some of my academic interests are math, computer science and artificial Intelligence. 
 Apart from this I strive to gain knowledge in various other domains in the hope that one day it'll all connect together.
