@@ -4,7 +4,7 @@ title: Mohammed Abdul Wadood
 subtitle: 
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download my only ML relevant résumé as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download my résumé as PDF</strong></a> </span>
 <br>
 
 ### EXPERIENCE
